@@ -1,0 +1,59 @@
+{
+    "students":[
+        {
+            "name":"Syeda Ansharah",
+            "gender":"female",
+            "email":"syedaansharah11@gmail.com",
+            "friends":[
+                {
+                    "name":"Khadija",
+                    "area":"Bahadurabad"
+                },
+                {
+                    "name":"Sana",
+                    "area":"Tariq Road"
+                }
+            ]
+        },
+        {
+            "name":"Rayan Shahid",
+            "gender":"male",
+            "email":"rayanshahid786123@gmail.com"
+        },
+        {
+            "name":"Ahsan Saqib",
+            "gender":"male",
+            "email":"ahsansaqib600@gmail.com"
+        },
+        {
+            "name":"Ahmed Rajwani",
+            "gender":"male",
+            "email":"hafizahmedrajwani@gmail.com"
+        },
+        {
+            "name":"Aazib Khan",
+            "gender":"male",
+            "email":"sumairahmed274@gmail.com"
+        },
+        {
+            "name":"Nazeer Khan",
+            "gender":"male",
+            "email":"nazeerkhaan171@gmail.com"
+        },
+        {
+            "name":"Syed Sami Ali",
+            "gender":"male",
+            "email":"sa1960676@gmail.com"
+        },
+        {
+            "name":"Abdul Rafay",
+            "gender":"male",
+            "email":"rafaylakhani555@gmail.com"
+        },
+        {
+            "name":"Hussain Khanani",
+            "gender":"male",
+            "email":"khananihussain41@gmail.com"
+        }
+    ]
+}
